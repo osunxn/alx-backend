@@ -179,7 +179,7 @@ solution - [7-app.py](./7-app.py)
     `Jan 21, 2020, 5:55:39 AM` or `21 janv. 2020 à 05:56:28`.
   + Use the following translations:
     | **msgid** | **English** | **French** |
-    |:-|:-|:YYY-|
+    |:-|:-|:-|
     | current_time_is | "The current time is %(current_time)s." | "Nous sommes le %(current_time)s." |
   + Displaying the time in French looks like this:<br/>
     ![Hello World! with a logged in message and the current time in French](./images/img8.png)
